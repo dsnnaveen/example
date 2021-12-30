@@ -1,2 +1,0 @@
-print("naveen")
-print("dsn")
